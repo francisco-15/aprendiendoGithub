@@ -1,2 +1,3 @@
 estoy aprendendo a usar git 
-esta es mi segunda línea de código. Deno de aprender esta vaina de git.
+esta es mi segunda línea de código. Debo de aprender esta vaina de git.
+Esta es mi tercera línea de código. vamos a crear ahora una rama, llamala header.
