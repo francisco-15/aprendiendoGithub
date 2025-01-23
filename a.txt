@@ -1,1 +1,2 @@
 estoy aprendendo a usar git 
+esta es mi segunda línea de código. Deno de aprender esta vaina de git.
