@@ -3,3 +3,4 @@ esta es mi segunda línea de código. Debo de aprender esta vaina de git.
 Esta es mi tercera línea de código. vamos a crear ahora una rama, llamala header.
 Estoy en la rama llamada header. jejeje esta parte ya la entendi. muahahaaha.
 este es primer cambio de la rama header
+segunda línea de texto de la rama header
