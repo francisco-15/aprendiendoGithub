@@ -1,13 +1,20 @@
 estoy aprendendo a usar git 
 esta es mi segunda línea de código. Debo de aprender esta vaina de git.
 Esta es mi tercera línea de código. vamos a crear ahora una rama, llamala header.
-<<<<<<< HEAD
 Esta linea se modifico completamente. Vamos a ver si hay conflicto, cambio main
+<<<<<<< HEAD
 =======
 Esta linea se modifico completamente. Vamos a ver si hay conflicto, cambio heder
 >>>>>>> 49d5e96 (cambio header)
+=======
+>>>>>>> ab74210 (apique un cambio)
 este es primer cambio de la rama header
 segunda línea de texto de la rama header
 tercera línea de texto de la rama header
 otro linea adicional
+<<<<<<< HEAD
 Ahora me voy a encargar de de modificar la línea 4 y unificar con la rama main
+=======
+Ahora me voy a encargar de de modificar la línea 4 y unificar con la rama main
+cambio
+>>>>>>> ab74210 (apique un cambio)
